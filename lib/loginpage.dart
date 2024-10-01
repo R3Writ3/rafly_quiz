@@ -12,8 +12,8 @@ class _LoginPageState extends State<LoginPage> {
   bool _isPasswordVisible = false;
 
   // Deklarasi Username dan Password dengan memberikan value
-  final String validUsername = 'admin';
-  final String validPassword = 'admin';
+  final String validUsername = 'admin123';
+  final String validPassword = 'admin123';
 
   @override
   Widget build(BuildContext context) {
